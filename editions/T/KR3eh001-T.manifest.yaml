@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3eh001/T/v1
+canonical_location: https://kanripo.org/bkk/KR3eh001/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 輔行訣臟腑用藥法要
+  identifiers:
+    krp: KR3eh001
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04580
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh001.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3eh001_001-T.yaml, hash: 'sha256:593a4ba49ee40c8add78a44f58bbad02b880e361a8ae6715662e447ad01b34fd'}
+table_of_contents: []
+hash: sha256:f2830d4cc8294141430f2fc09848e56ffeacc20973a44ed708d8250a9924faf5
